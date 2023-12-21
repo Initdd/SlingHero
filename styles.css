@@ -1,17 +1,13 @@
-p {
-    color: purple;
-    font-size: 300%;
+
+body {
+    margin: auto;
+    max-width: 500px;
+}
+
+canvas {
+    border: 1px solid black;
 }
 
 button {
-    font-size: 700%;
-}
-
-.t1 {
-    color: red;
-    border: 5px solid red;
-}
-
-.t2 {
-    color: blue;
+    font-size: 200%;
 }
