@@ -1,0 +1,17 @@
+p {
+    color: purple;
+    font-size: 300%;
+}
+
+button {
+    font-size: 700%;
+}
+
+.t1 {
+    color: red;
+    border: 5px solid red;
+}
+
+.t2 {
+    color: blue;
+}
